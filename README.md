@@ -1,3 +1,5 @@
+# The Interior Design Firm
+
 ## Dark Mode Toggle
 
 This project comes with a feature that allows users to toggle between dark and light modes.
