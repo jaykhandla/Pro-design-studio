@@ -1,11 +1,5 @@
 # The Interior Design Firm 
 
-<<<<<<< HEAD
-## Overview
-Pro Design Studio is a web development project aimed at creating a professional and visually appealing design studio interface. The project includes basic web technologies like HTML, CSS, and JavaScript, providing a clean, modern layout for users.
-
-=======
->>>>>>> 798a536d281a924bb8d0715f03d346bf8eeac648
 ## Dark Mode Toggle
 
 This project comes with a feature that allows users to toggle between dark and light modes.
