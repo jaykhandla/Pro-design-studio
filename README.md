@@ -1,4 +1,4 @@
-# The Interior Design Firm
+# The Interior Design Firm 
 
 <<<<<<< HEAD
 ## Overview
