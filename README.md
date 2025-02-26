@@ -1,5 +1,9 @@
 # Pro design studio
 
+<div align="center">
+  <img src ="./pro design studio.png"/>  
+</div>
+
 ## Overview
 
 The project "Pro Design Studio" is an interior design firm website with a dark mode toggle feature. The site is built using HTML, CSS, and JavaScript, allowing users to easily switch between light and dark themes.
